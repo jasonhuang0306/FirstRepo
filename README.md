@@ -6,7 +6,7 @@ _Italic text here_
 
 **bold text here**
 
-_Underline this **bold here**__
+\_Underline this **bold here**\_\_
 
 # Main Header
 
@@ -34,7 +34,9 @@ public static void main(){
 2. Numbered Item 2
 
 ## The following is an Image link
-![GitHub Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/200px-Octicons-mark-github.svg.png)
+
+![Tiger photo](https://upload.wikimedia.org/wikipedia/commons/4/41/Siberischer_tiger_de_edit02.jpg)
+![Tiger photo](https://upload.wikimedia.org/wikipedia/commons/4/41/Siberischer_tiger_de_edit02.jpg)
 
 All this content here
 Will be in one paragarph.
